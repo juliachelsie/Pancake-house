@@ -12,7 +12,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: #343632;
+    color: #f5f9ad;
     font-family: 'Raleway', sans-serif;
 
 }
@@ -24,13 +24,21 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 1px 2px #343632;
+    box-shadow: 0 1px 2px #f5f9ad;
 
 
 }
 
+header a {
+    text-decoration: dashed;
+    color: inherit;
+}
+
 h1 {
     font-family: 'Bricolage Grotesque', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    color: #f5f9ad
 }
 
 /* Main */
