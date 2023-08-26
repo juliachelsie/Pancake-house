@@ -1,5 +1,5 @@
-<style>@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Raleway:wght@300&display=swap');
-</style>
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&family=Raleway:wght@300&display=swap');
+style>
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
@@ -20,9 +20,13 @@ body {
 /* Header */
 header {
     background-color: #FF8CA7;
-
 }
- /* Main */
+
+h1 {
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+/* Main */
 main {
     background-color: #B8EEFC;
     flex: 1 0 auto;
