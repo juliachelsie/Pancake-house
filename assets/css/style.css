@@ -13,7 +13,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: #f5f9ad;
+    color: #332F2E;
     font-family: 'Raleway', sans-serif;
 
 }
@@ -26,6 +26,12 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 0 1px 2px #f5f9ad;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    display:flex;
+    justify-content: space-between;
+    align-items: baseline;
 
 }
 
@@ -38,7 +44,10 @@ h1 {
     font-family: 'Bricolage Grotesque', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2.5px;
-    color: #f5f9ad
+    color: #f5f9ad;
+    text-align:left;
+    width: 100%;
+    padding: 0 1rem;
 }
 
 #menu {
@@ -63,14 +72,31 @@ nav {
     width: 100%;
     left: 0;
     box-shadow: 0 1px 2px #f5f9ad;
-    padding: 0 .1rem;
+    padding: 0 .3rem;
+    display: none;
+    top: 100%;
+
+}
+
+#nav-toggle:checked~nav {
+    display: block
+}
+
+#nav-toggle {
     display: none;
 
 }
+
+.nav-toggle-label {
+    font-size: 2rem;
+    
+}
+
 /* Main */
 main {
     background-color: #B8EEFC;
     flex: 1 0 auto;
+    margin-top: 120px;
 
 
 }
