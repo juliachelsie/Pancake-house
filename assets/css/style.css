@@ -1,4 +1,4 @@
-<style>@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Roboto:wght@300&display=swap');
+<style>@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Raleway:wght@300&display=swap');
 </style>
 
 /* Asterisk wildcard selector to override default styles added by the browser */
@@ -12,7 +12,9 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: #343632
+    color: #343632;
+    font-family: 'Raleway', sans-serif;
+
 }
 
 /* Header */
