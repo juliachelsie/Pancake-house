@@ -67,7 +67,7 @@ header a {
 }
 
 .active {
-    border-bottom: 2.5px dotted #332F2E;
+    border-bottom: 2.5px none #332F2E;
 
 }
 /* Navbar styles with dropdown toggle */
@@ -106,6 +106,8 @@ main {
     
 }
 
+
+
 /* footer */
 footer {
     background-color: #FF8CA7;
@@ -126,6 +128,7 @@ footer {
     
     #menu {
         display: flex;
+        color:#f5f9ad;
     }
     #menu > li {
         padding-left: 1rem;
