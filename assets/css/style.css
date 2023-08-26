@@ -20,6 +20,13 @@ body {
 /* Header */
 header {
     background-color: #FF8CA7;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 1px 2px #343632;
+
+
 }
 
 h1 {
@@ -30,6 +37,7 @@ h1 {
 main {
     background-color: #B8EEFC;
     flex: 1 0 auto;
+    
 
  }
 /* footer */
