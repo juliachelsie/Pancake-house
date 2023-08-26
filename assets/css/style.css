@@ -134,4 +134,14 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+
+    #logo {
+        font-size: 300%;
+        line-height: 50px;
+        padding-left: 4rem;
+    }
+
+    main {
+        margin-top: 165px;
+    }
 }
