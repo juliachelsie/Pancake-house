@@ -7,6 +7,7 @@ style>
     margin: 0;
     box-sizing: border-box;
 }
+
 /* General styles */
 body {
     min-height: 100vh;
@@ -20,12 +21,11 @@ body {
 /* Header */
 header {
     background-color: #FF8CA7;
-    padding: 0 1rem;
+    padding: 0 .1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
     box-shadow: 0 1px 2px #f5f9ad;
-
 
 }
 
@@ -44,25 +44,39 @@ h1 {
 #menu {
     font-size: 100%;
     letter-spacing: 3px;
-    }
+    list-style-type: none;
 
-#menu > li {
-    margin-bottom: 1.5em;
+}
+
+#menu>li {
+    margin-bottom: 1em;
 }
 
 .active {
-    border-bottom: 2px dotted #f5f9ad ;
-}
+    border-bottom: 2.5px dotted #f5f9ad;
 
+}
+/* Navbar styles with dropdown toggle */
+nav {
+    position:absolute;
+    background-color: #FF8CA7;
+    width: 100%;
+    left: 0;
+    box-shadow: 0 1px 2px #f5f9ad;
+    padding: 0 .1rem;
+    display: none;
+
+}
 /* Main */
 main {
     background-color: #B8EEFC;
     flex: 1 0 auto;
-    
 
- }
+
+}
+
 /* footer */
- footer {
+footer {
     background-color: #FF8CA7;
 
- }
+}
