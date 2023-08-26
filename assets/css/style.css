@@ -41,6 +41,19 @@ h1 {
     color: #f5f9ad
 }
 
+#menu {
+    font-size: 100%;
+    letter-spacing: 3px;
+    }
+
+#menu > li {
+    margin-bottom: 1.5em;
+}
+
+.active {
+    border-bottom: 2px dotted #f5f9ad ;
+}
+
 /* Main */
 main {
     background-color: #B8EEFC;
