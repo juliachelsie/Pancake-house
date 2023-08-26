@@ -100,7 +100,7 @@ nav {
 main {
     background-color: #B8EEFC;
     flex: 1 0 auto;
-    margin-top: 47px;
+    margin-top: 120px;
     flex-direction: column;
     display: flex;
     
@@ -110,4 +110,28 @@ main {
 footer {
     background-color: #FF8CA7;
 
+}
+/* Media query: tablets and larger (768 and up */
+@media screen and (min-width :768px) {
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+        background-color: #FF8CA7;
+        font-size: 20px;
+    }
+    
+    #menu {
+        display: flex;
+    }
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
 }
