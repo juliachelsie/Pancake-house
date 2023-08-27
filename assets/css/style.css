@@ -96,6 +96,14 @@ nav {
     padding-right: 1rem;
 }
 
+#pancake-one {
+    height: ;
+    width: 100%;
+    background: url("");
+
+
+}
+
 /* Main */
 main {
     background-color: #B8EEFC;
@@ -111,9 +119,17 @@ main {
 /* footer */
 footer {
     background-color: #FF8CA7;
+    }
 
+#social-networks {
+    justify-content: space-evenly;
+    list-style-type: none;
+    display: flex;
+    padding-left: 10px;
 }
-/* Media query: tablets and larger (768 and up */
+
+
+/* Media query: tablets and larger (768 and up) */
 @media screen and (min-width :768px) {
     /* Header */
     nav {
@@ -148,3 +164,7 @@ footer {
         margin-top: 165px;
     }
 }
+ /* Media query: laptops and scrreen from 992px and larger */
+ @media screen and (min-width: 992px) {
+    
+ }
