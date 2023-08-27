@@ -97,10 +97,26 @@ nav {
 }
 
 #pancake-one {
-    height: ;
+    height: 400px;
     width: 100%;
-    background: url("");
+    background: url("../images/Pancake2.jpg") no-repeat center center/cover;
+    position: relative;
+}
 
+#pancake-text > h2, #pancake-text>h3 {
+    color: #f5f9ad;
+    text-align: center;
+
+}
+
+#pancake-text {
+    font-size: 100%;
+    position: absolute;
+    width: 100%;
+    min-height: 100px;
+    margin: 0;
+    top: 50%;
+    transform: translateY(-50%);
 
 }
 
