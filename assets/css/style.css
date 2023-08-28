@@ -21,11 +21,18 @@ body {
 
 }
 
-h1, h2 {
+h1 {
+    font-family: 'Bricolage Grotesque', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        color: #f5f9ad;
+}
+
+h2 {
     font-family: 'Bricolage Grotesque', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #f5f9ad;
+    color: #332F2E;
     
 }
 
