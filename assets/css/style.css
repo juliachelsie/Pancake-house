@@ -152,8 +152,52 @@ main {
     
 }
 
+#pancake2 {
+    background: url("../images/pancake3.jpg") no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-color: rgba(184, 232, 232, .7);
+    
+}
 
 
+
+#pancake-menu {
+    
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    text-decoration: underline;
+}
+
+#pancake2 div {
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.options-food {
+    
+}
+
+.options-warm {
+    
+}
+
+.options-cold {
+   
+}
+
+#pancake-div li {
+    text-align: center;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+#menu-options{
+    text-align: center;
+}
 /* footer */
 footer {
     background-color: #FF8CA7;
