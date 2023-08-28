@@ -16,6 +16,7 @@ body {
     color: #332F2E;
     font-family: 'Raleway', sans-serif;
     margin: 0px;
+    letter-spacing: 2px;
     
 
 }
@@ -201,6 +202,50 @@ main {
 #menu-options{
     text-align: center;
 }
+
+/* Form */
+
+#book.table {
+    background: url("../images/book.a.table.pic.jpg") no-repeat center center/cover;
+    height: 100%;
+    width: 75%;
+    position: relative;
+}
+
+#book.a.table {
+    color: #332F2E;
+    padding: 45px;
+    text-align: center;
+
+
+}
+
+#bookh2 {
+    margin-bottom: 15px;
+    text-align: center;
+    color: #332F2E;
+
+}
+
+.text-input {
+    border-radius: 2px;
+    color: #332F2E;
+    width: 75%;
+    height: 28px;
+    margin: 10px 0 20px 0;
+    padding: o 10px;
+    border: 1,5px #332F2E
+
+}
+
+#end-text h2 {
+    text-align: center;
+    padding-top: 200px;
+    color: #332F2E;
+    
+   
+}
+
 /* footer */
 footer {
     background-color: #FF8CA7;
@@ -212,6 +257,8 @@ footer {
     display: flex;
     padding-left: 10px;
 }
+
+
 
 
 /* Media query: tablets and larger (768 and up) */

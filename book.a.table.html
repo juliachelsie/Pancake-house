@@ -44,9 +44,9 @@
     </header>
 
     <main>
-        <section>
-            <form id="book.a.table" method="post">
-                <h2>Book a table!</h2>
+        <section id="book.table">
+            <form id="book.a.table" method="post" style="padding-left: 25px;">
+                <h2 id="bookh2">Book a table!</h2>
                 <label for="first_name">First Name:</label>
                 <input type="text" name="first_name" class="text-input" required/>
                 <br/>
@@ -62,7 +62,9 @@
                 <label for="date">When do you want to visit us?</label>
                 <input type="date" id="start" name="date" value="2023-08-30" min="2023-08-30" max="2024-03-15" required/>
                 <button type="submit" class="book">Book a table!</button>
+                <div></div>
             </form>
+            <div id="end-text"><h2>Welcome!</h2></div>
         </section>
     </main>
 
