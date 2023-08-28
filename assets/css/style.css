@@ -101,6 +101,7 @@ nav {
     width: 100%;
     background: url("../images/Pancake2.jpg") no-repeat center center/cover;
     position: relative;
+    background-attachment: fixed;
 }
 
 #pancake-text > h2, #pancake-text>h3 {
@@ -153,45 +154,47 @@ main {
 }
 
 #pancake2 {
-    background: url("../images/pancake3.jpg") no-repeat center center/cover;
+    background: url("../images/pancake4.jpg") no-repeat center center/cover;
     height: 100%;
     width: 100%;
     position: relative;
-    background-color: rgba(184, 232, 232, .7);
-    
+
+
 }
 
+#pancake-div {
+    background-color: rgba(184, 232, 232, .7);
+    position: relative;
+    font-size: 100px;
 
+}
 
-#pancake-menu {
-    
-    font-size: 50px;
+#pancake-menu h2 {
+     font-size: 50px;
     text-align: center;
     position: relative;
     text-decoration: underline;
+   
+   
 }
 
 #pancake2 div {
     text-align: center;
     font-size: 25px;
+    padding: 20px;
+    font-weight: bold;
     
 }
 
-.options-food {
-    
-}
-
-.options-warm {
-    
-}
-
-.options-cold {
-   
+#pancake-div h2 {
+    text-align: center;
+    position: relative;
+    font-size: 25px;
 }
 
 #pancake-div li {
     text-align: center;
-    font-size: 20px;
+    font-size: 15px;
     list-style-type: none;
 }
 
@@ -245,6 +248,21 @@ footer {
     main {
         margin-top: 165px;
     }
+
+    #pancake-div li {
+        text-align: center;
+        font-size: 25px;
+        list-style-type: none;
+     }
+
+    #pancake-div h2 {
+        text-align: center;
+        position: relative;
+        font-size: 35px;
+     }
+
+
+
 }
  /* Media query: laptops and scrreen from 992px and larger */
  @media screen and (min-width: 992px) {
