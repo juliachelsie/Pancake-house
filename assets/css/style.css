@@ -145,6 +145,7 @@ nav {
 font-size: 150%;
 text-align: center;
 margin-bottom: 30px;
+color: #332F2E;
 }
 
 #about-us p {
@@ -169,14 +170,18 @@ main {
 
 /* Menu */
 #pancake2 {
-    background: url("../images/pancake4.jpg") no-repeat center center/cover;
-    height: 100%;
-    width: 100%;
-    position: relative;
+    background: url("../images/pancake4.jpg"); 
+    background-size: cover;
+    background-position: 50%;
+    flex-grow: 1; 
+    padding: 20px 10% 20px 10%;
     
+    
+}
 
-
-
+#food-items {
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 #pancake-div {
@@ -184,6 +189,10 @@ main {
     position: relative;
     font-size: 100px;
     background-color: rgba(47, 76, 81, 0.83);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
 
 }
 
@@ -198,7 +207,8 @@ main {
 #pancake2 div {
     text-align: center;
     font-size: 25px;
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     font-weight: bold;
     
 }
@@ -209,6 +219,11 @@ main {
     font-size: 25px;
 }
 
+#div-display {
+    
+        
+}
+
 #pancake-div li {
     text-align: center;
     font-size: 15px;
@@ -217,21 +232,30 @@ main {
 }
 
 #pancakemenu {
-    height: 300px;
-    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+    width: 150px;
     border-radius: 50%;
 }
 
 #coffee {
-    height: 300px;
-    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+    width: 150px;
     border-radius: 50%;
 }
 
 #lemonade {
-    height: 300px;
-    width: 300px;
-    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%; 
 }
 
 
@@ -268,23 +292,23 @@ main {
     width: 100%;
     height: 28px;
     margin: 10px 0 20px 0;
-    padding: o 10px;
+    padding: 0 10px;
     border: 1,5px #332F2E
 
 }
 
-
-
+#tables { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding-bottom: 20px;
+    
+}
 
 
 .button:hover {
 color: #FF8CA7;
-}
-
-#tables {
-    width: auto;
-    height: auto;
-
 }
 
 /* footer */
@@ -310,9 +334,9 @@ footer {
         position: relative;
         box-shadow: none;
         width: fit-content;
-        padding-right: 1rem;
+        padding-right: 2rem;
         background-color: #FF8CA7;
-        font-size: 20px;
+        font-size: 18px;
     }
     
     #menu {
@@ -320,7 +344,7 @@ footer {
         color:#f5f9ad;
     }
     #menu > li {
-        padding-left: 1rem;
+        padding-left: 2rem;
     }
 
     .nav-toggle-label {
@@ -330,11 +354,43 @@ footer {
     #logo {
         font-size: 300%;
         line-height: 50px;
-        padding-left: 4rem;
+        padding-left: 2rem;
     }
 
     main {
         margin-top: 165px;
+    }
+
+    #pancake2 {
+        background-position: center;
+        position: relative;
+    }
+
+    #pancakemenu {
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+        }
+
+    #lemonade {
+    display: block;
+    margin-left: auto;
+     margin-right: auto;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    }
+
+    #coffee {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
     }
 
     #pancake-div li {
