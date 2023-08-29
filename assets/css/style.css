@@ -179,10 +179,12 @@ main {
     
 }
 
-#food-items {
+.food-items {
     padding-left: 20px;
     padding-right: 20px;
 }
+
+
 
 #pancake-div {
     background-color: rgba(184, 232, 232, .7);
@@ -292,20 +294,10 @@ main {
     width: 100%;
     height: 28px;
     margin: 10px 0 20px 0;
-    padding: 0 10px;
-    border: 1,5px #332F2E
+    padding: 0;
+    border: 1.5px #332F2E
 
 }
-
-#tables { 
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 90%;
-    padding-bottom: 20px;
-    
-}
-
 
 .button:hover {
 color: #FF8CA7;
