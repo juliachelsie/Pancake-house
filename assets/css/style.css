@@ -236,10 +236,6 @@ main {
     font-size: 25px;
 }
 
-#div-display {
-    
-        
-}
 
 #pancake-div li {
     text-align: center;
@@ -327,8 +323,6 @@ main {
 #number {
     border-radius: 5px;
     font-size: 18px;
-    border-color: none;
-    color: #332F2E;
     margin: 10px 0px 20px;
     border-style: none;
     padding-left: 10px;
@@ -344,7 +338,6 @@ main {
 .button {
     border-radius: 5px;
     font-size: 18px;
-    border-color: none;
     color: #332F2E;
     margin: 10px 0px 20px;
     border-style: none;
