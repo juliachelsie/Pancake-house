@@ -8,4 +8,4 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 
 - __Navigation Bar__
 - The website has a navigation bar which is full responsive and includes four links to the Logo, Home page, Menu and Book a table page. It is identical on all three pages for easy navigation. The user can easily navigate between the pages without having to revert back to previous pages via the "back"-button.
-- ![Nav Bar](https://github.com/juliachelsie/[pancake-house]/blob/[meida]/nav-bar.PNG)
+- ![Nav Bar](https://github.com/juliachelsie/pancake-house/blob/media/nav-bar.PNG)
