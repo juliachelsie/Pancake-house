@@ -72,12 +72,12 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 - __HTML__
 - No errors were returned when passing through the official (index.html page) [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Findex.html)
 - No errors were returned when passing through the official (menu.html page) [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Fmenu.html)
-- No errors were returned when passing through the official (book.a.table.html page) [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Fbook.a.table.html)
+- No errors were returned when passing through the official (book-a-table.html page) [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Fbook.a.table.html)
   
 - __CSS__
 - No errors were returned when passing through the official (index.html page) [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 - No errors were returned when passing through the official (menu.html page) [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Fmenu.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
-- No errors were returned when passing through the official (book.a.table.html page) [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Fbook.a.table.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+- No errors were returned when passing through the official (book-a-table.html page) [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Fbook.a.table.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
 ### Lighthouse
 
