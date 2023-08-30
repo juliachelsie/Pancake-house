@@ -359,6 +359,12 @@ footer {
     background-color: #FF8CA7;
     }
 
+#map {
+    width: 100%;
+    height: 400px;
+}
+
+
 #social-networks {
     justify-content: space-evenly;
     list-style-type: none;
