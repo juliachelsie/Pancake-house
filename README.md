@@ -1,6 +1,6 @@
-# Pancake-House!
+# Pancake-House
 
-Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help customers to hopefully choose pancake-house for their next restaurant-visit. It targets hungry customers who want to eat something simple, yet delicious, in the inner city of Gothenburg. Pancake-house is useful to cusomers because they can easily find the menu, they can read about the restaurant and how they only use local and organic products, book a table and find were the restaurant is located on a google map. 
+Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help customers to hopefully choose pancake-house for their next restaurant-visit. It targets hungry customers who want to eat something simple, yet delicious, in the inner city of Gothenburg. Pancake-house is useful to cusomers because they can easily find the menu, they can read about the restaurant and how they only use local and organic products, book a table and find were the restaurant is located on a google map.
 
 ## Existing features
 
@@ -62,3 +62,12 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 - No errors were returned when passing through the official (index.html page) [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 - No errors were returned when passing through the official (menu.html page) [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Fmenu.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 - No errors were returned when passing through the official (book.a.table.html page) [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Fbook.a.table.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+
+- __How does it look on different screen sizes?__
+- I have tested the website on different screen sizes, here is how it look.
+- Mobile devices:
+![Mobile devices](https://github.com/juliachelsie/Pancake-house/blob/main/media/website%20on%20mobile.PNG)
+- Tablets:
+![Tablets](https://github.com/juliachelsie/Pancake-house/blob/main/media/website%20on%20tablet.PNG)
+- Laptops:
+![Laptops](https://github.com/juliachelsie/Pancake-house/blob/main/media/website%20on%20laptop.PNG)
