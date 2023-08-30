@@ -60,7 +60,7 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 
 - __Colour__
 - I used this color scheme on the website. I think the palette goes well with the theme and gives a friendly impression to the user.
-![Color scheme]()
+![Color scheme](https://github.com/juliachelsie/Pancake-house/blob/main/media/palette.png)
 
 ## Testing
 
