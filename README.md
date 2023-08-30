@@ -83,18 +83,25 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 
 - I used Lighthouse within the Chrome Developer Tools to test performance, accessibility, best practices and SEO of the website for both desktop ad mobile.
 #### index.home
+
 - index.home on desktop:
 ![index.home](https://github.com/juliachelsie/Pancake-house/blob/main/media/lighthouse%20home.PNG)
 - index.home on mobile:
 ![index.home](https://github.com/juliachelsie/Pancake-house/blob/main/media/lighthouse%20home%20mobile.PNG)
 
+
+
 #### menu.html
+
 - menu.home on desktop:
 ![menu.home](https://github.com/juliachelsie/Pancake-house/blob/main/media/lighthouse%20menu.PNG)
 - menu.home on mobile:
 ![menu.home](https://github.com/juliachelsie/Pancake-house/blob/main/media/lighthouse%20menu%20mobile.PNG)
 
+
+
 #### book.a.table
+
 - book-a-table.html on desktop:
 ![book-a-table.html](https://github.com/juliachelsie/Pancake-house/blob/main/media/lighthouse%20book%20a%20table.PNG)
 - book-a-table.html on mobile:
@@ -105,8 +112,10 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 - I have tested the website on different screen sizes, here is how it look.
 - Mobile:
 ![Mobile ](https://github.com/juliachelsie/Pancake-house/blob/main/media/website%20on%20mobile.PNG)
+
 - Tablets:
 ![Tablets](https://github.com/juliachelsie/Pancake-house/blob/main/media/website%20on%20tablet.PNG)
+
 - Laptops:
 ![Laptops](https://github.com/juliachelsie/Pancake-house/blob/main/media/website%20on%20laptop.PNG)
 
