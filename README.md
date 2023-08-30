@@ -51,6 +51,17 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 
 ![Map](https://github.com/juliachelsie/Pancake-house/blob/main/media/map.PNG)
 
+## Design
+
+- __Typography__
+- Google Fonts was used for the following fonts:
+- Raleway is used for the body text on the site, it is a sans-serif font.
+- Bricolage Grotesque is used for headings on the site, it is a sans-serif font.
+
+- __Colour__
+- I used this color scheme on the website. I think the palette goes well with the theme and gives a friendly impression to the user.
+![Color scheme]()
+
 ## Testing
 
 - __Testing code via validators__
