@@ -51,10 +51,6 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 
 ![Map](https://github.com/juliachelsie/Pancake-house/blob/main/media/map.PNG)
 
-## Features left to implement
-
-- On the "Book A Table" page i want to add an input which allows the user to specify which time they will arrive to the restaurant.
-
 ## Design
 
 - __Typography__
@@ -107,16 +103,19 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 - book-a-table.html on mobile:
 ![book-a-table-html](https://github.com/juliachelsie/Pancake-house/blob/main/media/lighthouse%20book-a-table%20mobile.PNG)
 
+### Unfixed bugs
 
-- __How does it look on different screen sizes?__
+When side width reach 773px the nav list items jumps down. I did not correct it because a smaller menu would be more difficult to navigate. And i don't know how to fix it otherwise.
+
+### How does it look on different screen sizes?
 - I have tested the website on different screen sizes, here is how it look.
-- Mobile:
+#### Mobile:
 ![Mobile ](https://github.com/juliachelsie/Pancake-house/blob/main/media/website%20on%20mobile.PNG)
 
-- Tablets:
+#### Tablets:
 ![Tablets](https://github.com/juliachelsie/Pancake-house/blob/main/media/website%20on%20tablet.PNG)
 
-- Laptops:
+#### Laptops:
 ![Laptops](https://github.com/juliachelsie/Pancake-house/blob/main/media/website%20on%20laptop.PNG)
 
 ## Deployment
