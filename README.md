@@ -11,3 +11,7 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 - The user can easily navigate between the pages without having to revert back to previous pages via the "back"-button.
    
 ![Nav Bar](https://github.com/juliachelsie/Pancake-house/blob/main/media/nav-bar.PNG)
+
+- __Landing page image__
+- The landing includes an image with a pile of pancakes, overlayed with the text "DELICIOUS AND HOMEMADE!", it also contains the text "Since 1992".
+- This quickly grabs the users attention and they will scroll down and look for more information. 
