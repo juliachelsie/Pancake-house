@@ -51,6 +51,10 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 
 ![Map](https://github.com/juliachelsie/Pancake-house/blob/main/media/map.PNG)
 
+## Features left to implement
+
+- On the "Book A Table" page i want to add an input which allows the user to specify which time they will arrive to the restaurant.
+
 ## Design
 
 - __Typography__
@@ -92,3 +96,14 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - https://juliachelsie.github.io/Pancake-house/
+
+## Credits
+
+### Content
+- I used the teaching materials from [Code Institute](https://codeinstitute.net/se/)
+- The icons i used for the website was taken from [Font Awesome](https://fontawesome.com/)
+- The palette was created on [Coolors](https://coolors.co/)
+- I looked at the code for the README at [Code Institute-solutions](https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md?plain=1)
+  
+### Media
+- The images i used for all the pages was taken from [Pexels](https://www.pexels.com/sv-se/)
