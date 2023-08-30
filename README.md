@@ -2,25 +2,23 @@
 
 Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help customers to hopefully choose pancake-house for their next restaurant-visit. It targets hungry customers who want to eat something simple, yet delicious, in the inner city of Gothenburg. Pancake-house is useful to cusomers because they can easily find the menu, they can read about the restaurant and how they only use local and organic products, book a table and find were the restaurant is located on a google map. 
 
-## Features
-
-### Existing features
+## Existing features
 
 - __Navigation Bar__
 - The website has a navigation bar which is full responsive and includes four links to the Logo, Home page, Menu and Book a table page. It is identical on all three pages for easy navigation.
 - The user can easily navigate between the pages without having to revert back to previous pages via the "back"-button.
-   
+
 ![Nav Bar](https://github.com/juliachelsie/Pancake-house/blob/main/media/nav-bar.PNG)
 
 - __Landing page image__
 - The landing includes an image with a pile of pancakes, overlayed with the text "DELICIOUS AND HOMEMADE!", it also contains the text "Since 1992".
-- This quickly grabs the users attention and they will scroll down and look for more information. 
+- This quickly grabs the users attention and they will scroll down and look for more information.
   
 ![Landing Page](https://github.com/juliachelsie/Pancake-house/blob/main/media/landing-page.PNG)
-  
- - __About us__ 
- - In the "about us" section the user can read about the restaurant, where it is located, they will learn that Pancake-house bake their pancakes from scratch with organic and local products, and that there is a new exiting pancake every week. 
-- This section tells the user that the reataurant is focused on the environment and think about local farmers. 
+
+- __About us__
+- In the "about us" section the user can read about the restaurant, where it is located, they will learn that Pancake-house bake their pancakes from scratch with organic and local products, and that there is a new exiting pancake every week.
+- This section tells the user that the reataurant is focused on the environment and think about local farmers.
   
 ![About us](https://github.com/juliachelsie/Pancake-house/blob/main/media/about-us.PNG)
 
@@ -43,7 +41,7 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 ![Menu](https://github.com/juliachelsie/Pancake-house/blob/main/media/menu-cold.PNG)
   
 - __Book A Table__
-- The "Book A Table" page allows the user to booka a table at the restaurant. 
+- The "Book A Table" page allows the user to book a table at the restaurant.
 - The user will be asked to submit their full name and email address and specifies how many guests are coming and which date they want to book.
   
 ![Book A Table](https://github.com/juliachelsie/Pancake-house/blob/main/media/book-a-table.PNG)
@@ -52,3 +50,18 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 - This section on the "Book A Table" page shows the user where the restaurant is located on a google map. The user can make the map bigger easy navigate themself around the city of Gothenburg.
 
 ![Map](https://github.com/juliachelsie/Pancake-house/blob/main/media/map.PNG)
+
+## Testing
+
+- __HTML__
+- No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Findex.html)
+- No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Fmenu.html)
+- No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Fbook.a.table.html)
+  
+- __CSS__
+- No errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+- No errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Fmenu.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+- No errors were returned when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Fbook.a.table.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+
+
+  
