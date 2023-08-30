@@ -16,10 +16,27 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 - The landing includes an image with a pile of pancakes, overlayed with the text "DELICIOUS AND HOMEMADE!", it also contains the text "Since 1992".
 - This quickly grabs the users attention and they will scroll down and look for more information. 
   
-  ![Landing Page](https://github.com/juliachelsie/Pancake-house/blob/main/media/landing-page.PNG)
+![Landing Page](https://github.com/juliachelsie/Pancake-house/blob/main/media/landing-page.PNG)
   
  - __About us__ 
  - In the "about us" section the user can read about the restaurant, where it is located, they will learn that Pancake-house bake their pancakes from scratch with organic and local products, and that there is a new exiting pancake every week. 
 - This section tells the user that the reataurant is focused on the environment and think about local farmers. 
   
-  ![About us]
+![About us](https://github.com/juliachelsie/Pancake-house/blob/main/media/about-us.PNG)
+
+- __Menu Link__
+- Under the "About us" section there is a link. When the user clicks on this link it takes the user directly to the menu.
+  
+![Menu Link](https://github.com/juliachelsie/Pancake-house/blob/main/media/menu-link.PNG)
+
+- __Footer__
+- The footer section includes links to social media sites for Pancake-House. To keep easy navigation for the user the links open in new tabs.
+
+![Footer](https://github.com/juliachelsie/Pancake-house/blob/main/media/footer.PNG)
+
+- __Menu__
+- The menu tells the user what the restaurant offer in food, warm drinks and cold drinks. 
+- It includes pictures to make the menu seem more appealing and easy to understand.
+
+![Menu]
+  
