@@ -44,22 +44,22 @@
   <body>
     <header>
       <a href="index.html">
-        <h1 id="logo">Pancake-<br />House!</h1>
+        <h1 id="logo" aria-label="Logo leading home">Pancake-<br />House!</h1>
       </a>
       <input type="checkbox" id="nav-toggle" name="nav-toggle" />
       <label for="nav-toggle" class="nav-toggle-label"
-        ><i class="fa-solid fa-bars" style="color: #f5f9ad; font-size: 30px"></i
+        ><i class="fa-solid fa-bars" style="color: #f5f9ad; font-size: 30px" aria-label="Menu for Home, Menu and Book a table"></i
       ></label>
       <nav>
         <ul id="menu">
           <li>
-            <a href="index.html"><i class="fa-solid fa-house"></i> Home</a>
+            <a href="index.html" aria-label="Home"><i class="fa-solid fa-house"></i> Home</a>
           </li>
           <li>
-            <a href="menu.html"><i class="fa-solid fa-utensils"></i> Menu</a>
+            <a href="menu.html" aria-label="Menu"><i class="fa-solid fa-utensils"></i> Menu</a>
           </li>
           <li>
-            <a href="book-a-table.html" class="active"
+            <a href="book-a-table.html" class="active" aria-label="Book a table"
               ><i class="fa-regular fa-clipboard"></i> Book A Table</a
             >
           </li>
@@ -85,6 +85,7 @@
             type="text"
             name="first_name"
             class="text-input"
+            aria-label="First Name"
             required
           />
           <br />
@@ -95,6 +96,7 @@
             type="text"
             name="last_name"
             class="text-input"
+            aria-label="Last Name"
             required
           />
           <br />
@@ -105,6 +107,7 @@
             name="email_address"
             id="email_address"
             class="text-input"
+            aria-label="Email address"
             required
           />
           <br />
@@ -117,6 +120,7 @@
             step="1"
             min="1"
             max="20"
+            aria-label="How many are you?"
             required
           />
           <br />
@@ -130,11 +134,12 @@
             value="2023-08-30"
             min="2023-08-30"
             max="2024-03-15"
+            aria-label="Which date do you want to visit us?"
             required
           />
           <br />
           <br />
-          <button type="submit" class="button">Book a table!</button>
+          <button type="submit" class="button" aria-label="Book!">Book a table!</button>
           <div></div>
         </form>
       </section>
@@ -148,7 +153,7 @@
       <iframe
         id="map"
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2535.378841063432!2d11.968366890383326!3d57.699623078211374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff36e298179db%3A0xb8e4921d550e4501!2sVasagatan%2042%2C%20411%2037%20G%C3%B6teborg!5e0!3m2!1ssv!2sse!4v1693382901340!5m2!1ssv!2sse"
-      ></iframe>
+      aria-label="Google map"></iframe>
       <ul id="social-networks">
         <li>
           <a
