@@ -79,6 +79,26 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 - No errors were returned when passing through the official (menu.html page) [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Fmenu.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 - No errors were returned when passing through the official (book.a.table.html page) [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjuliachelsie.github.io%2FPancake-house%2Fbook.a.table.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
+### Lighthouse
+
+- I used Lighthouse within the Chrome Developer Tools to test performance, accessibility, best practices and SEO of the website for both desktop ad mobile.
+#### index.home
+- index.home on desktop:
+![index.home](https://github.com/juliachelsie/Pancake-house/blob/main/media/lighthouse%20home.PNG)
+- index.home on mobile:
+![index.home](https://github.com/juliachelsie/Pancake-house/blob/main/media/lighthouse%20home%20mobile.PNG)
+
+#### menu.html
+- menu.home on desktop:
+![menu.home](https://github.com/juliachelsie/Pancake-house/blob/main/media/lighthouse%20menu.PNG)
+- menu.home on mobile:
+![menu.home](https://github.com/juliachelsie/Pancake-house/blob/main/media/lighthouse%20menu%20mobile.PNG)
+
+#### book.a.table
+- book-a-table.html on desktop:
+![book-a-table.html](https://github.com/juliachelsie/Pancake-house/blob/main/media/lighthouse%20book%20a%20table.PNG)
+- book-a-table.html on mobile:
+![book-a-table-html](https://github.com/juliachelsie/Pancake-house/blob/main/media/lighthouse%20book-a-table%20mobile.PNG)
 
 
 - __How does it look on different screen sizes?__
