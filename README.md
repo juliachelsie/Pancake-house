@@ -35,8 +35,18 @@ Pancake-House is a website for a restaurant in Gothenburg, Sweden. It will help 
 ![Footer](https://github.com/juliachelsie/Pancake-house/blob/main/media/footer.PNG)
 
 - __Menu__
-- The menu tells the user what the restaurant offer in food, warm drinks and cold drinks. 
+- The menu page tells the user what the restaurant offer in food, warm drinks and cold drinks. 
 - It includes pictures to make the menu seem more appealing and easy to understand.
 
-![Menu]
+![Menu](https://github.com/juliachelsie/Pancake-house/blob/main/media/menu-food.PNG)(https://github.com/juliachelsie/Pancake-house/blob/main/media/menu-warm.PNG)(https://github.com/juliachelsie/Pancake-house/blob/main/media/menu-cold.PNG)
   
+- __Book A Table__
+- The "Book A Table" page allows the user to booka a table at the restaurant. 
+- The user will be asked to submit their full name and email address and specifies how many guests are coming and which date they want to book.
+  
+![Book A Table](https://github.com/juliachelsie/Pancake-house/blob/main/media/book-a-table.PNG)
+
+- __Map__
+- This section on the "Book A Table" page shows the user where the restaurant is located on a google map. The user can make the map bigger easy navigate themself around the city of Gothenburg.
+
+![Map](https://github.com/juliachelsie/Pancake-house/blob/main/media/map.PNG)
